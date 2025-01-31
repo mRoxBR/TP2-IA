@@ -1,0 +1,1 @@
+Nesse projeto, foi utilizado o Perceptron, uma Rede Neural Artificial, para classificar e-mails como spams ou não-spams. O projeto foi desenvolvido em Python e apresentado na disciplina de Inteligência Artificial, durante a minha graduação em Sistemas de Informação, na UFOP.
